@@ -1,0 +1,6 @@
+projectKey=HeCKER
+serverUrl=http://localhost:9000
+serverVersion=25.3.0.104237
+dashboardUrl=http://localhost:9000/dashboard?id=HeCKER
+ceTaskId=cf4ba46a-520e-4c1c-a8c6-ebdaa2e4002e
+ceTaskUrl=http://localhost:9000/api/ce/task?id=cf4ba46a-520e-4c1c-a8c6-ebdaa2e4002e
